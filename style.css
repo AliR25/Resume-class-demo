@@ -1,0 +1,29 @@
+header {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+  margin: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+body {
+  border: 5px limegreen ridge;
+  padding: 20px;
+  margin: 30px;
+  background-color: lightblue;
+}
+
+header-footer {
+  font-family: fantasy;
+  background-color: aqua;
+}
+
+#crazy-font {
+  font-family: 'Papyrus', fantasy;
+}
+
+.font-blue {
+  color:blanchedalmond;
+}
